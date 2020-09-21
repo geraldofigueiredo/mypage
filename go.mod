@@ -10,6 +10,7 @@ require (
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/pkg/errors v0.9.1
 	github.com/swaggo/swag v1.6.7
+	github.com/vektra/mockery v1.1.2 // indirect
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
 	google.golang.org/grpc v1.32.0
 )
