@@ -258,6 +258,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+@media (max-width: 600px) {
+  #hero {
+    background-position-x: -64em;
+  }
+}
+
 #hero:before {
   content: "";
   background: rgba(255, 255, 255, 0.8);
